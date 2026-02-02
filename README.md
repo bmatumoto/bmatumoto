@@ -24,8 +24,6 @@ Tenho desenvolvido aplicações próprias com Next.js, explorando arquitetura de
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmatumoto&layout=normal)
-
 <a href="https://github.com/bmatumoto/logistics-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmatumoto&repo=logistics-app" />
 </a>
