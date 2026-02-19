@@ -24,15 +24,6 @@ Tenho desenvolvido aplicações próprias com Next.js, explorando arquitetura de
 
 ---
 
-<a href="https://github.com/bmatumoto/logistics-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmatumoto&repo=logistics-app" />
-</a>
-<a href="https://github.com/bmatumoto/bmatumoto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bmatumoto&repo=bmatumoto" />
-</a>
-
----
-
 Entre em contato comigo.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/bmatumoto/)](https://www.linkedin.com/in/bmatumoto/)
